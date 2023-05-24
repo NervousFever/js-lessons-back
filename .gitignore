@@ -1,2 +1,3 @@
-node_modules
-sqliteData/database.sqlite
+node_modules/*
+sqliteData/*
+.Ds_store
