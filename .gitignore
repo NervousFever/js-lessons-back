@@ -1,2 +1,2 @@
-/ex1/node_modules
-/ex1/sqliteData/database.sqlite
+node_modules
+sqliteData/database.sqlite
